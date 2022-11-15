@@ -1,0 +1,58 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(30,30,30,0.60);
+  padding: 6%;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 450px;
+}
+
+.logo2{
+  font-size: 25px;
+  color: #00FF00;
+}
+
+nav{
+  text-align: center;
+  background-color: #00FF00;
+  padding: 15px;
+}
+
+section{
+  color: white;
+}
+
+.carica1{
+  height: 20px;
+  background-color: orange;
+  width: 40%;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: inherit;
+}
+
+.carica2{
+  height: 20px;
+  background-color: green;
+  width: 60%;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: inherit;
+}
+
+.carica3{
+  height: 20px;
+  background-color: red;
+  width: 20%;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: inherit;
+}
